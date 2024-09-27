@@ -17,11 +17,16 @@ This is a simple Svelte web application for managing healthcare services. Users 
 
 ## Prerequisites
 
-- Node.js and npm installed on your machine.
+Make sure you have the following installed on your machine:
+
+- **Node.js** (version 12 or later)
+- **npm** (comes with Node.js)
 
 ## Getting Started
 
 ### 1. Clone the Repository
+
+To clone the repository, use the following command (replace `<repository-url>` with the actual URL of your GitHub repository):
 
 ```bash
 git clone <repository-url>
